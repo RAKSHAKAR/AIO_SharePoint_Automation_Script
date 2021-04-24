@@ -1,0 +1,53 @@
+Tenant_URL,Destination_URL,Page_Name,Disable_Flow,Status,Start_Date, End_Date
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,No,Social button is successfully removed!,01-17-2021 20.09,01-17-2021 20.10
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,Yes,Social button is successfully removed!,01-17-2021 20.10,01-17-2021 20.10
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,No,Social button is successfully removed!,01-17-2021 20.13,01-17-2021 20.13
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,Yes,Social button is successfully removed!,01-17-2021 20.13,01-17-2021 20.13
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,No,Social button is successfully added!,01-17-2021 20.14,01-17-2021 20.15
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Home,Yes,Social button is successfully removed!,01-17-2021 20.15,01-17-2021 20.15
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,No,Comments button is successfully added!,01-17-2021 20.28,01-17-2021 20.29
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Comments button is successfully removed!,01-17-2021 20.29,01-17-2021 20.29
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,No,Banner button is successfully added!,01-17-2021 20.40,01-17-2021 20.40
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Banner button is successfully removed!,01-17-2021 20.40,01-17-2021 20.41
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,No,Banner button is successfully added!,01-17-2021 20.41,01-17-2021 20.42
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Banner button is successfully removed!,01-17-2021 20.42,01-17-2021 20.42
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Banner button is successfully removed!,01-17-2021 20.43,01-17-2021 20.44
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Banner button is successfully removed!,01-17-2021 20.45,01-17-2021 20.46
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,No,Banner button is successfully added!,01-17-2021 20.46,01-17-2021 20.46
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,No,Banner button is successfully added!,01-17-2021 20.51,01-17-2021 20.52
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,FAQs,Yes,Banner button is successfully removed!,01-17-2021 20.52,01-17-2021 20.52
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,,SiteCollectionAppCatalog is successfully added!,01-17-2021 21.51,01-17-2021 21.52
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,,SiteCollectionAppCatalog is successfully added!,01-17-2021 21.52,01-17-2021 21.52
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,No,Quick Launch or Left Navigation is successfully added!,01-17-2021 21.55,01-17-2021 21.55
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,Yes,Quick Launch or Left Navigation is successfully removed!,01-17-2021 21.55,01-17-2021 21.56
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,No,Flow or power Automate Option is successfully added!,01/17/2021 22:13:30,01/17/2021 22:14:06
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,Yes,Flow or power Automate Option is successfully removed!,01/17/2021 22:14:06,01/17/2021 22:14:22
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,Yes,Flow or power Automate Option is successfully removed!,01/18/2021 00:49:57,01/18/2021 00:50:04
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 00:50:04,01/18/2021 00:50:07
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,Yes,Flow or power Automate Option is successfully removed!,01/18/2021 01:29:16,01/18/2021 01:29:20
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 01:29:20,01/18/2021 01:29:22
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,Yes,Flow or power Automate Option is successfully removed!,01/18/2021 01:32:01,01/18/2021 01:32:40
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 01:32:40,01/18/2021 01:33:59
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 01:34:06,01/18/2021 01:34:47
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 01:34:47,01/18/2021 01:35:11
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,Yes,Flow or power Automate Option is successfully removed!,01/18/2021 01:35:18,01/18/2021 01:35:44
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test5,Test,No,Flow or power Automate Option is successfully added!,01/18/2021 01:35:44,01/18/2021 01:37:53
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/MidMarketEndorsments,Display-Form,Yes,Flow or power Automate Option is successfully removed!,01/19/2021 16:20:32,01/19/2021 16:20:37
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/MidMarketPACE,Display-Form,Yes,Flow or power Automate Option is successfully removed!,01/19/2021 16:20:37,01/19/2021 16:20:41
+https://devperform2-admin.sharepoint.com,https://devperform2-admin.sharepoint.com,,Yes,Flow or power Automate Option is successfully removed!,01/20/2021 23:06:44,01/20/2021 23:06:51
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/ClaimCounselEvaluation,,Yes,Flow or power Automate Option is successfully removed!,01/20/2021 23:06:51,01/20/2021 23:06:58
+https://devperform2-admin.sharepoint.com,https://devperform2-admin.sharepoint.com,,Yes,Flow or power Automate Option is successfully removed!,01/20/2021 23:07:07,01/20/2021 23:07:16
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/ClaimCounselEvaluation,,Yes,Flow or power Automate Option is successfully removed!,01/20/2021 23:07:16,01/20/2021 23:07:23
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/ClaimsKeywordDatabase,Edit-Page,Yes,Flow or power Automate Option is successfully removed!,01/21/2021 17:47:18,01/21/2021 17:47:22
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,Edit-Page,Yes,Flow or power Automate Option is successfully removed!,01/21/2021 17:47:22,01/21/2021 17:47:26
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/QuoterLibraryNorthern,Display-Form,Yes,Flow or power Automate Option is successfully removed!,01/25/2021 15:41:02,01/25/2021 15:41:05
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/JournalCorrectionRequests,Display-Form,Yes,Flow or power Automate Option is successfully removed!,01/25/2021 15:41:05,01/25/2021 15:41:07
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/BPCToolkit,Display-View,Yes,Flow or power Automate Option is successfully removed!,01/28/2021 13:21:14,01/28/2021 13:21:17
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/ZebraAuthorizationToolkit,Display-View,Yes,Flow or power Automate Option is successfully removed!,01/28/2021 13:21:17,01/28/2021 13:21:19
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/CounterProductsTraining,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/01/2021 14:56:53,02/01/2021 14:56:57
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/NewNCCReferenceDictionary,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/02/2021 17:16:35,02/02/2021 17:16:38
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/CorporateUnderwritingApprovalsArchive2017,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/02/2021 17:16:38,02/02/2021 17:16:42
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/ZurichI&IPeople,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/03/2021 17:59:48,02/03/2021 17:59:50
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/eCommerceSirLog,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/04/2021 22:10:06,02/04/2021 22:10:09
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/eCommerceSirLog,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/04/2021 22:10:25,02/04/2021 22:10:29
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/IntranetProjects,Display-View,Yes,Flow or power Automate Option is successfully removed!,02/05/2021 18:17:09,02/05/2021 18:17:11

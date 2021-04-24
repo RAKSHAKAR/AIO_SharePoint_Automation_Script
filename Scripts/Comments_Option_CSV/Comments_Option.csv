@@ -1,0 +1,10 @@
+Tenant_URL,Destination_URL,Page_Name,Disable_Comments
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Home,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,FAQs,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,TeamLeaders,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Application,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,New-Form,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Edit-Form,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Display-Form,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Edit-View,Yes
+https://devperform2-admin.sharepoint.com,https://devperform2.sharepoint.com/sites/TechnicalUnderwritingReferralFacility,Display-View,Yes

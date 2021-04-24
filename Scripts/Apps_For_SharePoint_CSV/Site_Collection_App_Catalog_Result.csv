@@ -1,0 +1,19 @@
+Tenant_URL,Destination_URL,Enable_AppCatalog,Status,Start_Date, End_Date
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,No,SiteCollectionAppCatalog is successfully removed!,01-17-2021 18.57,01-17-2021 18.58
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Yes,SiteCollectionAppCatalog is successfully added!,01-17-2021 18.58,01-17-2021 18.58
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,No,SiteCollectionAppCatalog is successfully removed!,01/17/2021 20:12:26,01/17/2021 20:12:42
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/Test4,Yes,SiteCollectionAppCatalog is successfully added!,01/17/2021 20:12:42,01/17/2021 20:12:52
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/Test2,No,SiteCollectionAppCatalog is successfully removed!,01/19/2021 16:09:15,01/19/2021 16:09:25
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/Test2,Yes,SiteCollectionAppCatalog is successfully added!,01/19/2021 16:09:25,01/19/2021 16:09:30
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/Test2,No,SiteCollectionAppCatalog is successfully removed!,01/19/2021 16:09:59,01/19/2021 16:10:03
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/Test2,Yes,SiteCollectionAppCatalog is successfully added!,01/19/2021 16:10:03,01/19/2021 16:10:08
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,No,SiteCollectionAppCatalog is successfully removed!,01/21/2021 15:54:01,01/21/2021 15:54:11
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,Yes,SiteCollectionAppCatalog is successfully added!,01/21/2021 15:54:11,01/21/2021 15:54:15
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,No,SiteCollectionAppCatalog is successfully removed!,01/21/2021 15:54:57,01/21/2021 15:55:02
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,Yes,SiteCollectionAppCatalog is successfully added!,01/21/2021 15:55:02,01/21/2021 15:55:06
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,No,SiteCollectionAppCatalog is successfully removed!,01/25/2021 15:36:01,01/25/2021 15:36:42
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,Yes,SiteCollectionAppCatalog is successfully added!,01/25/2021 15:36:42,01/25/2021 15:36:44
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,No,SiteCollectionAppCatalog is successfully removed!,02/01/2021 14:46:48,02/01/2021 14:46:54
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/MidMarketAbeyance,Yes,SiteCollectionAppCatalog is successfully added!,02/01/2021 14:46:54,02/01/2021 14:46:57
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/ApplicationChangeRequest,No,SiteCollectionAppCatalog is successfully removed!,02/12/2021 13:23:56,02/12/2021 13:24:03
+https://devperform2.sharepoint.com/,https://devperform2.sharepoint.com/sites/ApplicationChangeRequest,Yes,SiteCollectionAppCatalog is successfully added!,02/12/2021 13:24:03,02/12/2021 13:24:06

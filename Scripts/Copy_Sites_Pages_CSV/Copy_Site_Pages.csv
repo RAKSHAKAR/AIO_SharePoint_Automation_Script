@@ -1,0 +1,3 @@
+Tenant_URL,Source_URL,Page_Name,Destination_URL
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/OrgSite,Home,https://demoperform1.sharepoint.com/sites/Test4
+https://demoperform1-admin.sharepoint.com,https://demoperform1.sharepoint.com/sites/OrgSite,Test,https://demoperform1.sharepoint.com/sites/Test4
